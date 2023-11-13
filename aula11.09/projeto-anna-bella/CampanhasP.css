@@ -1,0 +1,11 @@
+* { margin: 0px; padding: 0px; }
+
+html { background-image: url(./images/fundo.png);}
+
+.texto-cabecalho a { text-decoration: none; color: darkmagenta; font-size: 16px; font-family: Arial; margin: 95px; padding: 15px;}
+
+.foto1 img {width: 400px; height: 200px; display: inline-block; position: fixed; right: 1%;}
+
+.foto2 img {width: 420px; height: 200px; display: inline-block; position: fixed; right: 35%; bottom: 6%;}
+
+.foto3 img {width: 400px; height: 200px; display: inline-block; position: fixed; right: 70%;}
