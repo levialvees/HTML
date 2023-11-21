@@ -1,0 +1,17 @@
+* { margin: 0px ; padding: 0px; }
+
+.contanier-body { display: flex; align-items: center; flex-direction: column; font-family: sans-serif; }
+
+.contanier-header { background: url(./images/img.jpeg) no-repeat; background-size: cover; background-color: #212529; width: 80%; height: 100vh; color: #ffffff; }
+
+.contanier-nav { padding: 0px 15px; background-color: #212529; height: 100px; display: flex; justify-content: space-between; align-items: center; }
+
+.contanier-ul { display: flex; }
+
+.contanier-main { width: 80%; }
+
+.contanier-section { display: flex; justify-content: space-between; }
+
+.contanier-product { display: flex; flex-direction: column; width: 360px; }
+
+.contanier-product-father { display: flex; }
