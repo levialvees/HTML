@@ -1,0 +1,11 @@
+* { margin: 0px; padding: 0px; box-sizing: border-box; }
+
+.largura { max-width: 500px; height: 300px; border: 2px dotted black; }
+
+.row { height: 100%; }
+
+.col-6, .col-3 { border: 2px dashed red; height: 25px; margin: 0px; }
+
+header { text-align: center; }
+.bi.bi-bell, .bi.bi-arrow-left-square-fill { font-size: 40px; color: green; margin: 2px; }
+
