@@ -1,0 +1,13 @@
+* { margin: 0px; padding: 0px; box-sizing: border-box; }
+
+body { background-image: url(../images/bg-02.jpg); padding-left: 90px ; }
+
+.texto{ background-color: white; width: 300px; height: 380px; padding: 20px; margin-top: 170px;  border-radius: 10px; opacity: 0.8; }
+
+.bi.bi-menu-button-wide { font-size: 80px; margin: 2px; }
+.bi.bi-headphones { font-size: 80px; margin: 2px; }
+.bi.bi-globe2 { font-size: 80px; margin: 2px; }
+
+
+p { margin-top: 50px; }
+h1 { font-size: 24px; } 
