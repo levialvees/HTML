@@ -2,12 +2,13 @@
 
 body { background-image: url(../images/bg-02.jpg); }
 
-.container { text-align: center; padding-left: 90px; margin-top: 150px;}
+.container { text-align: center; padding-left: 55px; margin-top: 90px;}
 
 .texto{ background-color: white; width: 300px; height: 430px; padding: 20px; border-radius: 10px; opacity: 0.8; }
 
 .bi.bi-menu-button-wide, .bi.bi-headphones, .bi.bi-globe2 { font-size: 80px; } 
 
+.borda { border: 1px solid black; width: 125px; height: 125px; border-radius: 100px; margin-left: 65px; }
 
 h1 { font-size: 24px; margin: 20px ; }
 p { margin-top: 50px; }
