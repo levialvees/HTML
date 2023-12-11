@@ -1,0 +1,29 @@
+* { margin: 0px; padding: 0px; box-sizing: border-box; }
+
+body { color: #242424; font-family: system-ui, sans-serif; word-wrap: break-word; overflow-wrap: break-word;}
+
+h1, h2 { font-weight: 900; color: #000000; }
+
+.wrapper { width: 100vw; margin: 0px auto; }
+
+.container { width: 100%; max-width: 760px; margin: 0px auto; padding: 0px 20px; }
+
+main { display: block; background-color: #ffffff; }
+
+section.module p { margin-bottom: 40px; }
+
+section.module:last-child { margin-bottom: 0px; }
+
+section.module h2 { margin-bottom: 40px; font-size: 30px; }
+
+section.module.content { padding: 40px 0px; background-color: burlywood; }
+
+section.module.parallax { display: flex; flex-direction: column; justify-content: center; height: 100vh !important; width: 100%; position: relative; overflow: hidden; background-position: 50% 50%; background-repeat: no-repeat; background-attachment: fixed; background-size: cover; }
+
+section.module.parallax::after { height: 100%; width: 100%; position: absolute; z-index: 8; background: linear-gradient(to bottom, #000000) 0, #000000 40%, #000000 100%; }
+
+section.module.parallax-1 { background-image: url(./imagens/questao09.01.jpg); }
+
+section.module.parallax-2 { background-image: url(./imagens/questao09.02.jpg); }
+
+section.module.parallax h1 { color: #ffffff; text-align: center; font-size: 80px; z-index: 50; text-transform: uppercase; text-shadow: 1px 1px 2px #242424, 0 0 1em #000000, 0 0 0.2em #000000;}

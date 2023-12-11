@@ -1,0 +1,31 @@
+* { margin: 0px; padding: 0px; box-sizing: border-box; }
+
+body {background-color: #484d50; padding-top: 56px; }
+
+.bg-cabecalho { background-color: blueviolet; }
+
+.border-top { width: 60px; }
+
+#cor-lorem { background-color: blueviolet; border-radius: 20px; }
+
+#cor-texto { color: blueviolet; }
+
+.cor-texto-02 { color: blueviolet; }
+
+.cor-link { color: blueviolet; }
+
+.text-titulo { flex: 1; }
+
+.text-img { width: 40px; }
+
+.hr { width: 100px; margin-left: 60px; }
+
+.container { padding-top: 30px; }
+
+.div-principal { display: flex; align-items: center; padding: 20px; border-radius: 10px; margin-bottom: 20px; }
+
+.div-principal img { max-width: 150px; border-radius: 20px; margin-right: 20px; }
+  
+
+
+
