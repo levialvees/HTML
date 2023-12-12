@@ -8,7 +8,9 @@ body { background: #1a1818; }
 
 hr { color: #000; background-color: #000; grid-area: hr; }
 
-.main { background-color: aqua; display: grid; grid-template-columns: 50% 50%;; }
+li { padding: 10px; background-color: #fff; text-transform: uppercase; margin-bottom: 10px; font-weight: 900; text-align: center; display: grid; justify-content: center; align-items: center; }
+
+.main { display: grid; grid-template-columns: 50% 50%; }
 
 .texto { background-color: #fff; display: grid; align-items: center; padding: 40px; }
 
@@ -25,8 +27,6 @@ hr { color: #000; background-color: #000; grid-area: hr; }
 .logo { margin-bottom: 10px; }
 
 .nav ul { list-style: none; display: grid;  }
-
-li { padding: 10px; background-color: #fff; text-transform: uppercase; margin-bottom: 10px; font-weight: 900; text-align: center; display: grid; justify-content: center; align-items: center; }
 
 #amarelo { color: gold; }
 

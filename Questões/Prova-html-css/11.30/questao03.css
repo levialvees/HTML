@@ -10,10 +10,11 @@ section { display: grid; padding: 30px; grid-gap: 10px; padding-top: 80px; justi
 
 input, textarea { padding: 15px; background-color: #f4f4f4; border: none; border-radius: 8px; }
 
+button { padding: 20px; background-color: #fff; border: 1.5px solid #121212; text-transform: uppercase; width: 150px; font-size: 12px; font-weight: bold; }
+
 .texto { font-weight: bold; }
 
 .say-hello { position: absolute; top: 5vh; left: 30vw; background-color: orange; padding: 20px; width: 250px; color: #fff; font-size: 32px; text-transform: uppercase; font-weight: bold; display: flex; align-items: center; justify-content: center; }
 
 .btn-flex-container { display: flex; align-items: center; justify-content: center; }
 
-button { padding: 20px; background-color: #fff; border: 1.5px solid #121212; text-transform: uppercase; width: 150px; font-size: 12px; font-weight: bold; }
