@@ -1,8 +1,10 @@
 * { margin: 0px; padding: 0px; box-sizing: border-box; }
 
-body {background-color: #484d50; padding-top: 56px; }
+body {background-color: black; padding-top: 56px; }
 
 .bg-cabecalho { background-color: blueviolet; }
+
+.nav-item { padding: 10px;}
 
 .border-top { width: 60px; }
 
@@ -22,10 +24,14 @@ body {background-color: #484d50; padding-top: 56px; }
 
 .container { padding-top: 30px; }
 
-.div-principal { display: flex; align-items: center; padding: 20px; border-radius: 10px; margin-bottom: 20px; }
+.div-principal { display: flex; align-items: center; padding: 20px; border-radius: 20px; margin-bottom: 20px; width: 510px; }
 
-.div-principal img { max-width: 150px; border-radius: 20px; margin-right: 20px; }
-  
+.div-principal img { max-width: 155px; border-radius: 20px; margin-right: 20px; }
+
+h4 { font-size: 22px; }
+
+p, a, h6 { font-size: 15.5px; } 
+
 
 
 
